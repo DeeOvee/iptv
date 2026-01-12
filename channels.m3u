@@ -137,7 +137,7 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537317.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537320.ts
 #EXTINF:-1 tvg-id="CNN.ca" tvg-name="CA - CNN" tvg-logo="https://iptv-epg.org/logos/Canada/CNN.ca.png" tvg-chno="1578" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA - CNN
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/414165.ts
-#EXTINF:-1 tvg-id="CNNInternational.ca" tvg-name="CA - CNN INTERNATIONAL" tvg-logo="https://iptv-epg.org/logos/Canada/CNNInternational.ca.png" tvg-chno="1579" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA - CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="CNNInternational.ca" tvg-name="CA - CNN INTERNATIONAL" tvg-logo="https://github.com/DeeOvee/iptv/blob/24db7bc4a9cb6687910c4d864c4ea32ea45f4b5f/tv-logos/CNNInternational.ca.png" tvg-chno="1579" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA - CNN INTERNATIONAL
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/498815.ts
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="2032" group-title="US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US - FOX SPORTS 2
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325016.ts
@@ -423,5 +423,6 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1544240.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1544247.ts
 #EXTINF:-1 tvg-id="7013" tvg-name="4K: TNT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ+ (LIVE-EVENT)" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/2270.jpg?52664" tvg-chno="7013" group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ",4K: TNT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ+ (LIVE-EVENT)
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1544246.ts
+
 
 
