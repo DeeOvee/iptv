@@ -58,7 +58,7 @@
   </channel>
   <channel id="TSN1.ca">
     <display-name>CA - TSN 1</display-name>
-    <icon src="https://iptv-epg.org/logos/Canada/TSN1.ca.png" />
+    <icon src="https://github.com/tv-logo/tv-logos/tree/main/countries/canada/tsn-1-ca.png" />
   </channel>
   <channel id="TSN2.ca">
     <display-name>CA - TSN 2</display-name>
