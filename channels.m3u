@@ -49,14 +49,14 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537304.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537306.ts
 #EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="1407" group-title="Live TV",CA - SPORTSNET PACIFIC
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537303.ts
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA EN: SPORTSNET WEST HD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="1408" group-title="Live TV",CA EN: SPORTSNET WEST HD
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="1408" group-title="Live TV",CA - SPORTSNET WEST
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/500449.ts
 #EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="1409" group-title="Live TV",CA - SPORTSNET 1
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537305.ts
-#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA - SPORTSNET WORLD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWorld.ca.png" tvg-chno="1410" group-title="Live TV",CA - SPORTSNET WORLD
-http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/500455.ts
 #EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="1410" group-title="Live TV",CA - SPORTSNET 360
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537307.ts
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA - SPORTSNET WORLD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWorld.ca.png" tvg-chno="1410" group-title="Live TV",CA - SPORTSNET WORLD
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/500455.ts
 #EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA - Bravo" tvg-logo="https://iptv-epg.org/logos/Canada/Bravo.ca.png" tvg-chno="1411" group-title="Live TV",CA - Bravo
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537364.ts
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="CA - LOVE NATURE" tvg-logo="https://iptv-epg.org/logos/Canada/LoveNature.ca.png" tvg-chno="1412" group-title="Live TV",CA - LOVE NATURE
@@ -65,7 +65,7 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1544262.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537365.ts
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US - USA Network" tvg-logo="https://iptv-epg.org/logos/USA/USANetwork.us.png" tvg-chno="1502" group-title="Live TV",US - USA Network
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/610437.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US - DISCOVERY SCIENCE" tvg-logo="https://iptv-epg.org/logos/USA/ScienceChannel.us.png" tvg-chno="1506" group-title="Live TV",US - DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US - Discovery Channel" tvg-logo="https://iptv-epg.org/logos/USA/DiscoveryChannel.us.png" tvg-chno="1506" group-title="Live TV",US - Discovery Channel
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/414077.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="1507" group-title="Live TV",CA - DISCOVERY
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/498752.ts
@@ -73,17 +73,17 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/498752.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537320.ts
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK - Discovery Turbo" tvg-logo="https://iptv-epg.org/logos/UK/DiscoveryTurbo.uk.png" tvg-chno="1510" group-title="Live TV",UK - Discovery Turbo
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/414078.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="1511" group-title="Live TV",CA - DISCOVERY
-http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537351.ts
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="US - Destination America" tvg-logo="https://iptv-epg.org/logos/USA/DestinationAmerica.us.png" tvg-chno="1511" group-title="Live TV",US - Destination America
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325833.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="1512" group-title="Live TV",CA - Investigation Discovery
-http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537320.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="1511" group-title="Live TV",CA - DISCOVERY
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537351.ts
 #EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="US - CRIME + INVESTIGATION" tvg-logo="https://iptv-epg.org/logos/USA/CrimeandInvestigationNetwork.us.png" tvg-chno="1512" group-title="Live TV",US - CRIME + INVESTIGATION
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/414073.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="1512" group-title="Live TV",CA - Investigation Discovery
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537320.ts
 #EXTINF:-1 tvg-id="History.us" tvg-name="US - HISTORY" tvg-logo="https://iptv-epg.org/logos/USA/History.us.png" tvg-chno="1515" group-title="Live TV",US - HISTORY
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325777.ts
-#EXTINF:-1 tvg-id="HLN.ca" tvg-name="US - HLN" tvg-logo="https://iptv-epg.org/logos/Canada/HLN.ca.png" tvg-chno="1516" group-title="Live TV",US - HLN
+#EXTINF:-1 tvg-id="HLN.ca" tvg-name="CA - HLN" tvg-logo="https://iptv-epg.org/logos/Canada/HLN.ca.png" tvg-chno="1516" group-title="Live TV",CA - HLN
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/498717.ts
 #EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="US - Law & Crime" tvg-logo="https://iptv-epg.org/logos/USA/LawAndCrime.us.png" tvg-chno="1517" group-title="Live TV",US - Law & Crime
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1536659.ts
@@ -93,7 +93,7 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1536712.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1536623.ts
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="US - TBS" tvg-logo="https://iptv-epg.org/logos/USA/TBS.us.png" tvg-chno="1520" group-title="Live TV",US - TBS
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325803.ts
-#EXTINF:-1 tvg-id="HistoryAndUndiscovered.paramount+" tvg-name="PRIME: HISTORY & UNDISCOVERED ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-chno="1522" group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HISTORY & UNDISCOVERED ᴿᴬᵂ
+#EXTINF:-1 tvg-id="HistoryAndUndiscovered.paramount+" tvg-name="PARAMOUNT+ - History & Undiscovered" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-chno="1522" group-title="Live TV",PARAMOUNT+ - History & Undiscovered
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1536712.ts
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="US - TNT" tvg-logo="https://iptv-epg.org/logos/USA/TNT.us.png" tvg-chno="1523" group-title="Live TV",US - TNT
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/716522.ts
@@ -133,14 +133,18 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325019.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325047.ts
 #EXTINF:-1 tvg-id="GolfChannel.ca" tvg-name="CA - GOLF CHANNEL" tvg-logo="https://iptv-epg.org/logos/Canada/GolfChannel.ca.png" tvg-chno="2038" group-title="Live TV",CA - GOLF CHANNEL
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325003.ts
-#EXTINF:-1 tvg-id="SPEEDVISION.us" tvg-name="US - SPEEDVISION" tvg-logo="https://iptv-epg.org/logos/USA/SPEEDVISION.us.png" tvg-chno="2039" group-title="Live TV",US - SPEEDVISION
-http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1536449.ts
 #EXTINF:-1 tvg-id="CTVSpeed.ca" tvg-name="CA - CTV Speed" tvg-logo="https://iptv-epg.org/logos/Canada/CTVSpeed.ca.png" tvg-chno="2039" group-title="Live TV",CA - CTV Speed
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1536450.ts
+#EXTINF:-1 tvg-id="SPEEDVISION.us" tvg-name="US - SPEEDVISION" tvg-logo="https://iptv-epg.org/logos/USA/SPEEDVISION.us.png" tvg-chno="2039" group-title="Live TV",US - SPEEDVISION
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1536449.ts
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="2040" group-title="Live TV",US - CBS SPORTS NETWORK
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325023.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US - MLB NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/MLBNetwork.us.png" tvg-chno="2040" group-title="Live TV",US - MLB NETWORK
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/431198.ts
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US - MLB NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/MLBNetwork.us.png" tvg-chno="2041" group-title="Live TV",US - MLB NETWORK
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325002.ts
+#EXTINF:-1 tvg-id="MLBNetwork-Alt.us" tvg-name="US - MLB Network-Alt" tvg-logo="https://iptv-epg.org/logos/USA/MLBNetwork-Alt.us.png" tvg-chno="2041" group-title="Live TV",US - MLB Network-Alt
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/431197.ts
 #EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="US - MLB Strike Zone" tvg-logo="https://iptv-epg.org/logos/USA/MLBStrikeZone.us.png" tvg-chno="2042" group-title="Live TV",US - MLB Strike Zone
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325049.ts
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" tvg-chno="2043" group-title="Live TV",US - Fox Sports 1
@@ -153,12 +157,14 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537315.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1031378.ts
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="US - NHL NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/NHLNetwork.us.png" tvg-chno="2047" group-title="Live TV",US - NHL NETWORK
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/604331.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="PRIME: FUBO SPORTS NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" tvg-chno="3000" group-title="Live TV",PRIME: FUBO SPORTS NETWORK ᴿᴬᵂ
+#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="CA - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" tvg-chno="3000" group-title="Live TV",CA - fubo Sports Network
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537341.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="PRIME: FUBO SPORTS NETWORK 2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" tvg-chno="3001" group-title="Live TV",PRIME: FUBO SPORTS NETWORK 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="CA - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" tvg-chno="3001" group-title="Live TV",CA - fubo Sports Network 2
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537340.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork4K.ca" tvg-name="CA: FUBO PPV SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork4K.ca.png" tvg-chno="3002" group-title="Live TV",CA: FUBO PPV SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-id="fuboSportsNetwork4K.ca" tvg-name="CA - Fubo Sports Network 4K" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork4K.ca.png" tvg-chno="3002" group-title="Live TV",CA - Fubo Sports Network 4K
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1367448.ts
+#EXTINF:-1 tvg-id="3003" tvg-name="#### SPORTSNET+ PPV ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-chno="3003" group-title="Live TV",#### SPORTSNET+ PPV ####
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538125.ts
 #EXTINF:-1 tvg-id="fuboSportsNetwork10.ca" tvg-name="CA: FUBO PPV SPORTS 1 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork10.ca.png" tvg-chno="3004" group-title="Live TV",CA: FUBO PPV SPORTS 1 ᴿᴬᵂ
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1367447.ts
 #EXTINF:-1 tvg-id="fuboSportsNetwork10.ca" tvg-name="CA: FUBO PPV SPORTS 10 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork10.ca.png" tvg-chno="3005" group-title="Live TV",CA: FUBO PPV SPORTS 10 ᴿᴬᵂ
@@ -179,223 +185,301 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1367441.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1367440.ts
 #EXTINF:-1 tvg-id="fuboSportsNetwork9.ca" tvg-name="CA: FUBO PPV SPORTS 9 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork9.ca.png" tvg-chno="3013" group-title="Live TV",CA: FUBO PPV SPORTS 9 ᴿᴬᵂ
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1367439.ts
-#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="UK: LFC TV ᴴᴰ ◉" tvg-logo="https://iptv-epg.org/logos/UK/Liverpool.epl.png" tvg-chno="3017" group-title="Live TV",UK: LFC TV ᴴᴰ ◉
+#EXTINF:-1 tvg-id="3014" tvg-name="Sportsnet Central Jan 16 @ Jan 17 5:00 AM :Sportsnet+  01" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3014" group-title="Live TV",Sportsnet Central Jan 16 @ Jan 17 5:00 AM :Sportsnet+  01
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538124.ts
+#EXTINF:-1 tvg-id="3015" tvg-name="Eredivisie: AFC Ajax vs Go Ahead Eagles @ Jan 17 10:20 AM :Sportsnet+  02" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3015" group-title="Live TV",Eredivisie: AFC Ajax vs Go Ahead Eagles @ Jan 17 10:20 AM :Sportsnet+  02
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538123.ts
+#EXTINF:-1 tvg-id="3016" tvg-name="NHL: Minnesota vs Buffalo Available outside Sabres region @ Jan 17 12:30 PM :Sportsnet+  03" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3016" group-title="Live TV",NHL: Minnesota vs Buffalo Available outside Sabres region @ Jan 17 12:30 PM :Sportsnet+  03
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538122.ts
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="UK - LFC TV" tvg-logo="https://iptv-epg.org/logos/UK/LFCTV.uk.png" tvg-chno="3017" group-title="Live TV",UK - LFC TV
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/588056.ts
-#EXTINF:-1 tvg-id="4000" tvg-name="UK: DAZN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4000" group-title="UK| DAZN PPV VIP",UK: DAZN HD
+#EXTINF:-1 tvg-id="3018" tvg-name="Eredivisie: PEC Zwolle vs AZ Alkmaar @ Jan 17 12:35 PM :Sportsnet+  04" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3018" group-title="Live TV",Eredivisie: PEC Zwolle vs AZ Alkmaar @ Jan 17 12:35 PM :Sportsnet+  04
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538121.ts
+#EXTINF:-1 tvg-id="3019" tvg-name="NHL: Scotiabank Hockey Day in Canada @ Jan 17 1:00 PM :Sportsnet+  05" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3019" group-title="Live TV",NHL: Scotiabank Hockey Day in Canada @ Jan 17 1:00 PM :Sportsnet+  05
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538120.ts
+#EXTINF:-1 tvg-id="3020" tvg-name="NHL: New York Rangers vs Philadelphia @ Jan 17 1:00 PM :Sportsnet+  06" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3020" group-title="Live TV",NHL: New York Rangers vs Philadelphia @ Jan 17 1:00 PM :Sportsnet+  06
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538119.ts
+#EXTINF:-1 tvg-id="3021" tvg-name="Eredivisie: Fortuna Sittard vs PSV Eindhoven @ Jan 17 1:50 PM :Sportsnet+  07" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3021" group-title="Live TV",Eredivisie: Fortuna Sittard vs PSV Eindhoven @ Jan 17 1:50 PM :Sportsnet+  07
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538118.ts
+#EXTINF:-1 tvg-id="3022" tvg-name="PWHL: Vancouver vs Toronto @ Jan 17 3:00 PM :Sportsnet+  08" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3022" group-title="Live TV",PWHL: Vancouver vs Toronto @ Jan 17 3:00 PM :Sportsnet+  08
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538117.ts
+#EXTINF:-1 tvg-id="3023" tvg-name="NHL: New York Islanders vs Calgary @ Jan 17 3:00 PM :Sportsnet+  09" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3023" group-title="Live TV",NHL: New York Islanders vs Calgary @ Jan 17 3:00 PM :Sportsnet+  09
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538116.ts
+#EXTINF:-1 tvg-id="3024" tvg-name="NHL: Seattle vs Utah @ Jan 17 5:00 PM :Sportsnet+  10" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3024" group-title="Live TV",NHL: Seattle vs Utah @ Jan 17 5:00 PM :Sportsnet+  10
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538115.ts
+#EXTINF:-1 tvg-id="3025" tvg-name="NHL: Scotiabank Hockey Day in Canada Primetime @ Jan 17 6:00 PM :Sportsnet+  11" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3025" group-title="Live TV",NHL: Scotiabank Hockey Day in Canada Primetime @ Jan 17 6:00 PM :Sportsnet+  11
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538114.ts
+#EXTINF:-1 tvg-id="3026" tvg-name="NHL: Montreal vs Ottawa @ Jan 17 7:00 PM :Sportsnet+  12" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3026" group-title="Live TV",NHL: Montreal vs Ottawa @ Jan 17 7:00 PM :Sportsnet+  12
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538113.ts
+#EXTINF:-1 tvg-id="3027" tvg-name="NHL: HNIC IN PUNJABI Toronto vs Winnipeg @ Jan 17 7:00 PM :Sportsnet+  13" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3027" group-title="Live TV",NHL: HNIC IN PUNJABI Toronto vs Winnipeg @ Jan 17 7:00 PM :Sportsnet+  13
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538112.ts
+#EXTINF:-1 tvg-id="3028" tvg-name="NHL: Carolina vs New Jersey @ Jan 17 7:00 PM :Sportsnet+  14" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3028" group-title="Live TV",NHL: Carolina vs New Jersey @ Jan 17 7:00 PM :Sportsnet+  14
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538111.ts
+#EXTINF:-1 tvg-id="3029" tvg-name="NHL: Columbus vs Pittsburgh @ Jan 17 7:00 PM :Sportsnet+  15" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3029" group-title="Live TV",NHL: Columbus vs Pittsburgh @ Jan 17 7:00 PM :Sportsnet+  15
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538110.ts
+#EXTINF:-1 tvg-id="3030" tvg-name="NHL: Florida vs Washington @ Jan 17 7:00 PM :Sportsnet+  16" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3030" group-title="Live TV",NHL: Florida vs Washington @ Jan 17 7:00 PM :Sportsnet+  16
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538109.ts
+#EXTINF:-1 tvg-id="3031" tvg-name="NHL: Toronto vs Winnipeg @ Jan 17 7:00 PM :Sportsnet+  17" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3031" group-title="Live TV",NHL: Toronto vs Winnipeg @ Jan 17 7:00 PM :Sportsnet+  17
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538108.ts
+#EXTINF:-1 tvg-id="3032" tvg-name="NHL: Boston vs Chicago @ Jan 17 8:00 PM :Sportsnet+  18" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3032" group-title="Live TV",NHL: Boston vs Chicago @ Jan 17 8:00 PM :Sportsnet+  18
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538107.ts
+#EXTINF:-1 tvg-id="3033" tvg-name="NBA: Oklahoma City vs Miami @ Jan 17 8:00 PM :Sportsnet+  19" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3033" group-title="Live TV",NBA: Oklahoma City vs Miami @ Jan 17 8:00 PM :Sportsnet+  19
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538106.ts
+#EXTINF:-1 tvg-id="3034" tvg-name="Leafs Talk Jan 17 vs Winnipeg @ Jan 17 9:00 PM :Sportsnet+  20" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3034" group-title="Live TV",Leafs Talk Jan 17 vs Winnipeg @ Jan 17 9:00 PM :Sportsnet+  20
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538105.ts
+#EXTINF:-1 tvg-id="3035" tvg-name="NHL: Los Angeles vs Anaheim @ Jan 17 10:00 PM :Sportsnet+  21" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3035" group-title="Live TV",NHL: Los Angeles vs Anaheim @ Jan 17 10:00 PM :Sportsnet+  21
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538104.ts
+#EXTINF:-1 tvg-id="3036" tvg-name="NHL: Edmonton vs Vancouver @ Jan 17 10:00 PM :Sportsnet+  22" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3036" group-title="Live TV",NHL: Edmonton vs Vancouver @ Jan 17 10:00 PM :Sportsnet+  22
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538103.ts
+#EXTINF:-1 tvg-id="3037" tvg-name="NHL: Nashville vs Vegas @ Jan 17 10:00 PM :Sportsnet+  23" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3037" group-title="Live TV",NHL: Nashville vs Vegas @ Jan 17 10:00 PM :Sportsnet+  23
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538102.ts
+#EXTINF:-1 tvg-id="3039" tvg-name=":Sportsnet+  25" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3039" group-title="Live TV",:Sportsnet+  25
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538100.ts
+#EXTINF:-1 tvg-id="3040" tvg-name=":Sportsnet+  26" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3040" group-title="Live TV",:Sportsnet+  26
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538099.ts
+#EXTINF:-1 tvg-id="3041" tvg-name=":Sportsnet+  27" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3041" group-title="Live TV",:Sportsnet+  27
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538098.ts
+#EXTINF:-1 tvg-id="3042" tvg-name=":Sportsnet+  28" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3042" group-title="Live TV",:Sportsnet+  28
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538097.ts
+#EXTINF:-1 tvg-id="3043" tvg-name=":Sportsnet+  29" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3043" group-title="Live TV",:Sportsnet+  29
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538096.ts
+#EXTINF:-1 tvg-id="3044" tvg-name=":Sportsnet+  30" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3044" group-title="Live TV",:Sportsnet+  30
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538095.ts
+#EXTINF:-1 tvg-id="3045" tvg-name=":Sportsnet+  31" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3045" group-title="Live TV",:Sportsnet+  31
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538094.ts
+#EXTINF:-1 tvg-id="3046" tvg-name=":Sportsnet+  32" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3046" group-title="Live TV",:Sportsnet+  32
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538093.ts
+#EXTINF:-1 tvg-id="3047" tvg-name=":Sportsnet+  33" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3047" group-title="Live TV",:Sportsnet+  33
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538092.ts
+#EXTINF:-1 tvg-id="3048" tvg-name=":Sportsnet+  34" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3048" group-title="Live TV",:Sportsnet+  34
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538091.ts
+#EXTINF:-1 tvg-id="3049" tvg-name=":Sportsnet+  35" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3049" group-title="Live TV",:Sportsnet+  35
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538090.ts
+#EXTINF:-1 tvg-id="3050" tvg-name=":Sportsnet+  36" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3050" group-title="Live TV",:Sportsnet+  36
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538089.ts
+#EXTINF:-1 tvg-id="3051" tvg-name=":Sportsnet+  37" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3051" group-title="Live TV",:Sportsnet+  37
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538088.ts
+#EXTINF:-1 tvg-id="3052" tvg-name=":Sportsnet+  38" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3052" group-title="Live TV",:Sportsnet+  38
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538087.ts
+#EXTINF:-1 tvg-id="3053" tvg-name=":Sportsnet+  39" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3053" group-title="Live TV",:Sportsnet+  39
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538086.ts
+#EXTINF:-1 tvg-id="3054" tvg-name=":Sportsnet+  40" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" tvg-chno="3054" group-title="Live TV",:Sportsnet+  40
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1538085.ts
+#EXTINF:-1 tvg-id="4000" tvg-name="UK: DAZN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4000" group-title="Live TV",UK: DAZN HD
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612882.ts
-#EXTINF:-1 tvg-id="4001" tvg-name="UK: DAZN 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4001" group-title="UK| DAZN PPV VIP",UK: DAZN 4K
+#EXTINF:-1 tvg-id="4001" tvg-name="UK: DAZN 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4001" group-title="Live TV",UK: DAZN 4K
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612881.ts
-#EXTINF:-1 tvg-id="4002" tvg-name="UK: DAZN PPV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4002" group-title="UK| DAZN PPV VIP",UK: DAZN PPV HD
+#EXTINF:-1 tvg-id="4002" tvg-name="UK: DAZN PPV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4002" group-title="Live TV",UK: DAZN PPV HD
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612880.ts
-#EXTINF:-1 tvg-id="4003" tvg-name="UK: DAZN PPV SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4003" group-title="UK| DAZN PPV VIP",UK: DAZN PPV SD
+#EXTINF:-1 tvg-id="4003" tvg-name="UK: DAZN PPV SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4003" group-title="Live TV",UK: DAZN PPV SD
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612879.ts
-#EXTINF:-1 tvg-id="4004" tvg-name="UK: DAZN PPV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4004" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 4K
+#EXTINF:-1 tvg-id="4004" tvg-name="UK: DAZN PPV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4004" group-title="Live TV",UK: DAZN PPV 4K
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612878.ts
-#EXTINF:-1 tvg-id="4005" tvg-name="UK: DAZN PPV HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4005" group-title="UK| DAZN PPV VIP",UK: DAZN PPV HEVC HD
+#EXTINF:-1 tvg-id="4005" tvg-name="UK: DAZN PPV HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4005" group-title="Live TV",UK: DAZN PPV HEVC HD
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612877.ts
-#EXTINF:-1 tvg-id="4006" tvg-name="UK: DAZN PPV HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4006" group-title="UK| DAZN PPV VIP",UK: DAZN PPV HEVC 4K
+#EXTINF:-1 tvg-id="4006" tvg-name="UK: DAZN PPV HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4006" group-title="Live TV",UK: DAZN PPV HEVC 4K
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612876.ts
-#EXTINF:-1 tvg-id="4007" tvg-name="####### DAZN PPV #######" tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" tvg-chno="4007" group-title="UK| DAZN PPV VIP",####### DAZN PPV #######
+#EXTINF:-1 tvg-id="4007" tvg-name="####### DAZN PPV #######" tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" tvg-chno="4007" group-title="Live TV",####### DAZN PPV #######
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791251.ts
-#EXTINF:-1 tvg-id="4008" tvg-name="UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4008" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4008" tvg-name="UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4008" group-title="Live TV",UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791250.ts
-#EXTINF:-1 tvg-id="4009" tvg-name="UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4009" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4009" tvg-name="UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4009" group-title="Live TV",UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791249.ts
-#EXTINF:-1 tvg-id="4010" tvg-name="UK: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4010" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4010" tvg-name="UK: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4010" group-title="Live TV",UK: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791248.ts
-#EXTINF:-1 tvg-id="4011" tvg-name="UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4011" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4011" tvg-name="UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4011" group-title="Live TV",UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791247.ts
-#EXTINF:-1 tvg-id="4012" tvg-name="UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4012" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4012" tvg-name="UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4012" group-title="Live TV",UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791246.ts
-#EXTINF:-1 tvg-id="4013" tvg-name="UK: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4013" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4013" tvg-name="UK: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4013" group-title="Live TV",UK: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791245.ts
-#EXTINF:-1 tvg-id="4014" tvg-name="UK: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4014" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4014" tvg-name="UK: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4014" group-title="Live TV",UK: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791244.ts
-#EXTINF:-1 tvg-id="4015" tvg-name="UK: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4015" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4015" tvg-name="UK: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4015" group-title="Live TV",UK: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791243.ts
-#EXTINF:-1 tvg-id="4016" tvg-name="UK: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4016" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4016" tvg-name="UK: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4016" group-title="Live TV",UK: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791242.ts
-#EXTINF:-1 tvg-id="4017" tvg-name="UK: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4017" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4017" tvg-name="UK: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4017" group-title="Live TV",UK: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791241.ts
-#EXTINF:-1 tvg-id="4018" tvg-name="UK: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4018" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4018" tvg-name="UK: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4018" group-title="Live TV",UK: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791240.ts
-#EXTINF:-1 tvg-id="4019" tvg-name="UK: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4019" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4019" tvg-name="UK: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4019" group-title="Live TV",UK: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791239.ts
-#EXTINF:-1 tvg-id="4020" tvg-name="UK: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4020" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4020" tvg-name="UK: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4020" group-title="Live TV",UK: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791238.ts
-#EXTINF:-1 tvg-id="4021" tvg-name="UK: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4021" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4021" tvg-name="UK: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4021" group-title="Live TV",UK: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791237.ts
-#EXTINF:-1 tvg-id="4022" tvg-name="UK: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4022" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4022" tvg-name="UK: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4022" group-title="Live TV",UK: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791236.ts
-#EXTINF:-1 tvg-id="4023" tvg-name="UK: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4023" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4023" tvg-name="UK: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4023" group-title="Live TV",UK: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791235.ts
-#EXTINF:-1 tvg-id="4024" tvg-name="UK: DAZN PPV 17 - ALTAY VS. SORRA | Sat 17 Jan 17:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4024" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 17 - ALTAY VS. SORRA | Sat 17 Jan 17:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4024" tvg-name="UK: DAZN PPV 17 - ALTAY VS. SORRA | Sat 17 Jan 17:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4024" group-title="Live TV",UK: DAZN PPV 17 - ALTAY VS. SORRA | Sat 17 Jan 17:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791234.ts
-#EXTINF:-1 tvg-id="4025" tvg-name="UK: DAZN PPV 18 - KENTUCKY @ TENNESSEE | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4025" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 18 - KENTUCKY @ TENNESSEE | Sat 17 Jan 18:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4025" tvg-name="UK: DAZN PPV 18 - KENTUCKY @ TENNESSEE | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4025" group-title="Live TV",UK: DAZN PPV 18 - KENTUCKY @ TENNESSEE | Sat 17 Jan 18:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791233.ts
-#EXTINF:-1 tvg-id="4026" tvg-name="UK: DAZN PPV 19 - NOTRE DAME @ VIRGINIA TECH | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4026" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 19 - NOTRE DAME @ VIRGINIA TECH | Sat 17 Jan 18:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4026" tvg-name="UK: DAZN PPV 19 - NOTRE DAME @ VIRGINIA TECH | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4026" group-title="Live TV",UK: DAZN PPV 19 - NOTRE DAME @ VIRGINIA TECH | Sat 17 Jan 18:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791232.ts
-#EXTINF:-1 tvg-id="4027" tvg-name="UK: DAZN PPV 20 - MINNESOTA @ ILLINOIS | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4027" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 20 - MINNESOTA @ ILLINOIS | Sat 17 Jan 18:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4027" tvg-name="UK: DAZN PPV 20 - MINNESOTA @ ILLINOIS | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4027" group-title="Live TV",UK: DAZN PPV 20 - MINNESOTA @ ILLINOIS | Sat 17 Jan 18:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791231.ts
-#EXTINF:-1 tvg-id="4028" tvg-name="UK: DAZN PPV 21 - UCONN @ GEORGETOWN | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4028" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 21 - UCONN @ GEORGETOWN | Sat 17 Jan 18:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4028" tvg-name="UK: DAZN PPV 21 - UCONN @ GEORGETOWN | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4028" group-title="Live TV",UK: DAZN PPV 21 - UCONN @ GEORGETOWN | Sat 17 Jan 18:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791230.ts
-#EXTINF:-1 tvg-id="4029" tvg-name="UK: DAZN PPV 22 - NAPOLI VS. SASSUOLO | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4029" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 22 - NAPOLI VS. SASSUOLO | Sat 17 Jan 18:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4029" tvg-name="UK: DAZN PPV 22 - NAPOLI VS. SASSUOLO | Sat 17 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4029" group-title="Live TV",UK: DAZN PPV 22 - NAPOLI VS. SASSUOLO | Sat 17 Jan 18:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791229.ts
-#EXTINF:-1 tvg-id="4030" tvg-name="UK: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4030" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4030" tvg-name="UK: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4030" group-title="Live TV",UK: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791228.ts
-#EXTINF:-1 tvg-id="4031" tvg-name="UK: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4031" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4031" tvg-name="UK: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4031" group-title="Live TV",UK: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791227.ts
-#EXTINF:-1 tvg-id="4032" tvg-name="UK: DAZN PPV 25 - GORILLA 1: LIVERPOOL | Sat 17 Jan 18:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4032" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 25 - GORILLA 1: LIVERPOOL | Sat 17 Jan 18:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4032" tvg-name="UK: DAZN PPV 25 - GORILLA 1: LIVERPOOL | Sat 17 Jan 18:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4032" group-title="Live TV",UK: DAZN PPV 25 - GORILLA 1: LIVERPOOL | Sat 17 Jan 18:30 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791226.ts
-#EXTINF:-1 tvg-id="4033" tvg-name="UK: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4033" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4033" tvg-name="UK: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4033" group-title="Live TV",UK: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791225.ts
-#EXTINF:-1 tvg-id="4034" tvg-name="UK: DAZN PPV 27 - UCLA @ OHIO STATE | Sat 17 Jan 19:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4034" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 27 - UCLA @ OHIO STATE | Sat 17 Jan 19:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4034" tvg-name="UK: DAZN PPV 27 - UCLA @ OHIO STATE | Sat 17 Jan 19:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4034" group-title="Live TV",UK: DAZN PPV 27 - UCLA @ OHIO STATE | Sat 17 Jan 19:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791224.ts
-#EXTINF:-1 tvg-id="4035" tvg-name="UK: DAZN PPV 28 - KIWITT VS. JAFARU | Sat 17 Jan 19:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4035" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 28 - KIWITT VS. JAFARU | Sat 17 Jan 19:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4035" tvg-name="UK: DAZN PPV 28 - KIWITT VS. JAFARU | Sat 17 Jan 19:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4035" group-title="Live TV",UK: DAZN PPV 28 - KIWITT VS. JAFARU | Sat 17 Jan 19:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791223.ts
-#EXTINF:-1 tvg-id="4036" tvg-name="UK: DAZN PPV 29 - IOWA @ INDIANA | Sat 17 Jan 20:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4036" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 29 - IOWA @ INDIANA | Sat 17 Jan 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4036" tvg-name="UK: DAZN PPV 29 - IOWA @ INDIANA | Sat 17 Jan 20:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4036" group-title="Live TV",UK: DAZN PPV 29 - IOWA @ INDIANA | Sat 17 Jan 20:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791222.ts
-#EXTINF:-1 tvg-id="4037" tvg-name="UK: DAZN PPV 30 - FLORIDA @ VANDERBILT | Sat 17 Jan 20:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4037" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 30 - FLORIDA @ VANDERBILT | Sat 17 Jan 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4037" tvg-name="UK: DAZN PPV 30 - FLORIDA @ VANDERBILT | Sat 17 Jan 20:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4037" group-title="Live TV",UK: DAZN PPV 30 - FLORIDA @ VANDERBILT | Sat 17 Jan 20:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791221.ts
-#EXTINF:-1 tvg-id="4038" tvg-name="UK: DAZN PPV 31 - SYRACUSE @ BOSTON COLLEGE | Sat 17 Jan 20:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4038" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 31 - SYRACUSE @ BOSTON COLLEGE | Sat 17 Jan 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4038" tvg-name="UK: DAZN PPV 31 - SYRACUSE @ BOSTON COLLEGE | Sat 17 Jan 20:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4038" group-title="Live TV",UK: DAZN PPV 31 - SYRACUSE @ BOSTON COLLEGE | Sat 17 Jan 20:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791220.ts
-#EXTINF:-1 tvg-id="4039" tvg-name="UK: DAZN PPV 32 - RUTGERS @ WISCONSIN | Sat 17 Jan 20:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4039" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 32 - RUTGERS @ WISCONSIN | Sat 17 Jan 20:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4039" tvg-name="UK: DAZN PPV 32 - RUTGERS @ WISCONSIN | Sat 17 Jan 20:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4039" group-title="Live TV",UK: DAZN PPV 32 - RUTGERS @ WISCONSIN | Sat 17 Jan 20:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791219.ts
-#EXTINF:-1 tvg-id="4040" tvg-name="UK: DAZN PPV 33 - CAGLIARI VS. JUVENTUS | Sat 17 Jan 20:45 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4040" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 33 - CAGLIARI VS. JUVENTUS | Sat 17 Jan 20:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4040" tvg-name="UK: DAZN PPV 33 - CAGLIARI VS. JUVENTUS | Sat 17 Jan 20:45 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4040" group-title="Live TV",UK: DAZN PPV 33 - CAGLIARI VS. JUVENTUS | Sat 17 Jan 20:45 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791218.ts
-#EXTINF:-1 tvg-id="4041" tvg-name="UK: DAZN PPV 34 - UNION SAINT-GILLOISE VS. MECHELEN | Sat 17 Jan 20:45 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4041" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 34 - UNION SAINT-GILLOISE VS. MECHELEN | Sat 17 Jan 20:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4041" tvg-name="UK: DAZN PPV 34 - UNION SAINT-GILLOISE VS. MECHELEN | Sat 17 Jan 20:45 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4041" group-title="Live TV",UK: DAZN PPV 34 - UNION SAINT-GILLOISE VS. MECHELEN | Sat 17 Jan 20:45 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791217.ts
-#EXTINF:-1 tvg-id="4042" tvg-name="UK: DAZN PPV 35 - ISLANDERS @ FLAMES | Sat 17 Jan 21:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4042" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 35 - ISLANDERS @ FLAMES | Sat 17 Jan 21:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4042" tvg-name="UK: DAZN PPV 35 - ISLANDERS @ FLAMES | Sat 17 Jan 21:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4042" group-title="Live TV",UK: DAZN PPV 35 - ISLANDERS @ FLAMES | Sat 17 Jan 21:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791216.ts
-#EXTINF:-1 tvg-id="4043" tvg-name="UK: DAZN PPV 36 - BILBAO VS. TENERIFE | Sat 17 Jan 21:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4043" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 36 - BILBAO VS. TENERIFE | Sat 17 Jan 21:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4043" tvg-name="UK: DAZN PPV 36 - BILBAO VS. TENERIFE | Sat 17 Jan 21:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4043" group-title="Live TV",UK: DAZN PPV 36 - BILBAO VS. TENERIFE | Sat 17 Jan 21:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791215.ts
-#EXTINF:-1 tvg-id="4044" tvg-name="UK: DAZN PPV 37 - LE HAVRE VS. PSG | Sat 17 Jan 21:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4044" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 37 - LE HAVRE VS. PSG | Sat 17 Jan 21:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4044" tvg-name="UK: DAZN PPV 37 - LE HAVRE VS. PSG | Sat 17 Jan 21:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4044" group-title="Live TV",UK: DAZN PPV 37 - LE HAVRE VS. PSG | Sat 17 Jan 21:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791214.ts
-#EXTINF:-1 tvg-id="4045" tvg-name="UK: DAZN PPV 38 - NORTH CAROLINA @ CALIFORNIA | Sat 17 Jan 22:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4045" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 38 - NORTH CAROLINA @ CALIFORNIA | Sat 17 Jan 22:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4045" tvg-name="UK: DAZN PPV 38 - NORTH CAROLINA @ CALIFORNIA | Sat 17 Jan 22:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4045" group-title="Live TV",UK: DAZN PPV 38 - NORTH CAROLINA @ CALIFORNIA | Sat 17 Jan 22:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791213.ts
-#EXTINF:-1 tvg-id="4046" tvg-name="UK: DAZN PPV 39 - ARIZONA @ UCF | Sat 17 Jan 22:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4046" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 39 - ARIZONA @ UCF | Sat 17 Jan 22:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4046" tvg-name="UK: DAZN PPV 39 - ARIZONA @ UCF | Sat 17 Jan 22:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4046" group-title="Live TV",UK: DAZN PPV 39 - ARIZONA @ UCF | Sat 17 Jan 22:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791212.ts
-#EXTINF:-1 tvg-id="4047" tvg-name="UK: DAZN PPV 40 - MICHIGAN @ OREGON | Sat 17 Jan 22:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4047" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 40 - MICHIGAN @ OREGON | Sat 17 Jan 22:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4047" tvg-name="UK: DAZN PPV 40 - MICHIGAN @ OREGON | Sat 17 Jan 22:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4047" group-title="Live TV",UK: DAZN PPV 40 - MICHIGAN @ OREGON | Sat 17 Jan 22:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791211.ts
-#EXTINF:-1 tvg-id="4048" tvg-name="UK: DAZN PPV 41 - BILLS @ BRONCOS | Sat 17 Jan 22:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4048" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 41 - BILLS @ BRONCOS | Sat 17 Jan 22:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4048" tvg-name="UK: DAZN PPV 41 - BILLS @ BRONCOS | Sat 17 Jan 22:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4048" group-title="Live TV",UK: DAZN PPV 41 - BILLS @ BRONCOS | Sat 17 Jan 22:30 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791210.ts
-#EXTINF:-1 tvg-id="4049" tvg-name="UK: DAZN PPV 42 - KINGS WORLD CUP NATIONS - FINAL (IN ENGLISH, PORTUGUESE & SPANISH) | Sat 17 Jan 22:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4049" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 42 - KINGS WORLD CUP NATIONS - FINAL (IN ENGLISH, PORTUGUESE & SPANISH) | Sat 17 Jan 22:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4049" tvg-name="UK: DAZN PPV 42 - KINGS WORLD CUP NATIONS - FINAL (IN ENGLISH, PORTUGUESE & SPANISH) | Sat 17 Jan 22:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4049" group-title="Live TV",UK: DAZN PPV 42 - KINGS WORLD CUP NATIONS - FINAL (IN ENGLISH, PORTUGUESE & SPANISH) | Sat 17 Jan 22:30 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791209.ts
-#EXTINF:-1 tvg-id="4050" tvg-name="UK: DAZN PPV 43 - KINGS WORLD CUP NATIONS - FINAL (IN FRENCH, GERMAN & ITALIAN) | Sat 17 Jan 22:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4050" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 43 - KINGS WORLD CUP NATIONS - FINAL (IN FRENCH, GERMAN & ITALIAN) | Sat 17 Jan 22:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4050" tvg-name="UK: DAZN PPV 43 - KINGS WORLD CUP NATIONS - FINAL (IN FRENCH, GERMAN & ITALIAN) | Sat 17 Jan 22:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4050" group-title="Live TV",UK: DAZN PPV 43 - KINGS WORLD CUP NATIONS - FINAL (IN FRENCH, GERMAN & ITALIAN) | Sat 17 Jan 22:30 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791208.ts
-#EXTINF:-1 tvg-id="4051" tvg-name="UK: DAZN PPV 44 - KRAKEN @ MAMMOTH | Sat 17 Jan 23:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4051" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 44 - KRAKEN @ MAMMOTH | Sat 17 Jan 23:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4051" tvg-name="UK: DAZN PPV 44 - KRAKEN @ MAMMOTH | Sat 17 Jan 23:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4051" group-title="Live TV",UK: DAZN PPV 44 - KRAKEN @ MAMMOTH | Sat 17 Jan 23:00 | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791207.ts
-#EXTINF:-1 tvg-id="4052" tvg-name="UK: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4052" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4052" tvg-name="UK: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4052" group-title="Live TV",UK: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791206.ts
-#EXTINF:-1 tvg-id="4053" tvg-name="UK: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4053" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4053" tvg-name="UK: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4053" group-title="Live TV",UK: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791205.ts
-#EXTINF:-1 tvg-id="4054" tvg-name="UK: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4054" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4054" tvg-name="UK: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4054" group-title="Live TV",UK: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791204.ts
-#EXTINF:-1 tvg-id="4055" tvg-name="UK: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4055" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4055" tvg-name="UK: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4055" group-title="Live TV",UK: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791203.ts
-#EXTINF:-1 tvg-id="4056" tvg-name="UK: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4056" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4056" tvg-name="UK: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4056" group-title="Live TV",UK: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791202.ts
-#EXTINF:-1 tvg-id="4057" tvg-name="UK: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4057" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4057" tvg-name="UK: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4057" group-title="Live TV",UK: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791201.ts
-#EXTINF:-1 tvg-id="4058" tvg-name="UK: DAZN PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4058" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4058" tvg-name="UK: DAZN PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4058" group-title="Live TV",UK: DAZN PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791200.ts
-#EXTINF:-1 tvg-id="4059" tvg-name="UK: DAZN PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4059" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4059" tvg-name="UK: DAZN PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4059" group-title="Live TV",UK: DAZN PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791199.ts
-#EXTINF:-1 tvg-id="4060" tvg-name="UK: DAZN PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4060" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4060" tvg-name="UK: DAZN PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4060" group-title="Live TV",UK: DAZN PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791198.ts
-#EXTINF:-1 tvg-id="4061" tvg-name="UK: DAZN PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4061" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4061" tvg-name="UK: DAZN PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4061" group-title="Live TV",UK: DAZN PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791197.ts
-#EXTINF:-1 tvg-id="4062" tvg-name="UK: DAZN PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4062" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4062" tvg-name="UK: DAZN PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4062" group-title="Live TV",UK: DAZN PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791196.ts
-#EXTINF:-1 tvg-id="4063" tvg-name="UK: DAZN PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4063" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4063" tvg-name="UK: DAZN PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4063" group-title="Live TV",UK: DAZN PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791195.ts
-#EXTINF:-1 tvg-id="4064" tvg-name="UK: DAZN PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4064" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4064" tvg-name="UK: DAZN PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4064" group-title="Live TV",UK: DAZN PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791194.ts
-#EXTINF:-1 tvg-id="4065" tvg-name="UK: DAZN PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4065" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4065" tvg-name="UK: DAZN PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4065" group-title="Live TV",UK: DAZN PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791193.ts
-#EXTINF:-1 tvg-id="4066" tvg-name="UK: DAZN PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4066" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4066" tvg-name="UK: DAZN PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4066" group-title="Live TV",UK: DAZN PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791192.ts
-#EXTINF:-1 tvg-id="4067" tvg-name="UK: DAZN PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4067" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4067" tvg-name="UK: DAZN PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4067" group-title="Live TV",UK: DAZN PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791191.ts
-#EXTINF:-1 tvg-id="4068" tvg-name="UK: DAZN PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4068" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4068" tvg-name="UK: DAZN PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4068" group-title="Live TV",UK: DAZN PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791190.ts
-#EXTINF:-1 tvg-id="4069" tvg-name="UK: DAZN PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4069" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4069" tvg-name="UK: DAZN PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4069" group-title="Live TV",UK: DAZN PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791189.ts
-#EXTINF:-1 tvg-id="4070" tvg-name="UK: DAZN PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4070" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4070" tvg-name="UK: DAZN PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4070" group-title="Live TV",UK: DAZN PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791188.ts
-#EXTINF:-1 tvg-id="4071" tvg-name="UK: DAZN PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4071" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4071" tvg-name="UK: DAZN PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4071" group-title="Live TV",UK: DAZN PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791187.ts
-#EXTINF:-1 tvg-id="4072" tvg-name="UK: DAZN PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4072" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4072" tvg-name="UK: DAZN PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4072" group-title="Live TV",UK: DAZN PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791186.ts
-#EXTINF:-1 tvg-id="4073" tvg-name="UK: DAZN PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4073" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4073" tvg-name="UK: DAZN PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4073" group-title="Live TV",UK: DAZN PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791185.ts
-#EXTINF:-1 tvg-id="4074" tvg-name="UK: DAZN PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4074" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4074" tvg-name="UK: DAZN PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4074" group-title="Live TV",UK: DAZN PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791184.ts
-#EXTINF:-1 tvg-id="4075" tvg-name="UK: DAZN PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4075" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4075" tvg-name="UK: DAZN PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4075" group-title="Live TV",UK: DAZN PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791183.ts
-#EXTINF:-1 tvg-id="4076" tvg-name="UK: DAZN PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4076" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4076" tvg-name="UK: DAZN PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4076" group-title="Live TV",UK: DAZN PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791182.ts
-#EXTINF:-1 tvg-id="4077" tvg-name="UK: DAZN PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4077" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4077" tvg-name="UK: DAZN PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4077" group-title="Live TV",UK: DAZN PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791181.ts
-#EXTINF:-1 tvg-id="4078" tvg-name="UK: DAZN PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4078" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4078" tvg-name="UK: DAZN PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4078" group-title="Live TV",UK: DAZN PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791180.ts
-#EXTINF:-1 tvg-id="4079" tvg-name="UK: DAZN PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4079" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4079" tvg-name="UK: DAZN PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4079" group-title="Live TV",UK: DAZN PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791179.ts
-#EXTINF:-1 tvg-id="4080" tvg-name="UK: DAZN PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4080" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4080" tvg-name="UK: DAZN PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4080" group-title="Live TV",UK: DAZN PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791178.ts
-#EXTINF:-1 tvg-id="4081" tvg-name="UK: DAZN PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4081" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4081" tvg-name="UK: DAZN PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4081" group-title="Live TV",UK: DAZN PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791177.ts
-#EXTINF:-1 tvg-id="4082" tvg-name="UK: DAZN PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4082" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4082" tvg-name="UK: DAZN PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4082" group-title="Live TV",UK: DAZN PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791176.ts
-#EXTINF:-1 tvg-id="4083" tvg-name="UK: DAZN PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4083" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4083" tvg-name="UK: DAZN PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4083" group-title="Live TV",UK: DAZN PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791175.ts
-#EXTINF:-1 tvg-id="4084" tvg-name="UK: DAZN PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4084" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4084" tvg-name="UK: DAZN PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4084" group-title="Live TV",UK: DAZN PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791174.ts
-#EXTINF:-1 tvg-id="4085" tvg-name="UK: DAZN PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4085" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4085" tvg-name="UK: DAZN PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4085" group-title="Live TV",UK: DAZN PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791173.ts
-#EXTINF:-1 tvg-id="4086" tvg-name="UK: DAZN PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4086" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4086" tvg-name="UK: DAZN PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4086" group-title="Live TV",UK: DAZN PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791172.ts
-#EXTINF:-1 tvg-id="4087" tvg-name="UK: DAZN PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4087" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4087" tvg-name="UK: DAZN PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4087" group-title="Live TV",UK: DAZN PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791171.ts
-#EXTINF:-1 tvg-id="4088" tvg-name="UK: DAZN PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4088" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4088" tvg-name="UK: DAZN PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4088" group-title="Live TV",UK: DAZN PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791170.ts
-#EXTINF:-1 tvg-id="4089" tvg-name="UK: DAZN PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4089" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4089" tvg-name="UK: DAZN PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4089" group-title="Live TV",UK: DAZN PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791169.ts
-#EXTINF:-1 tvg-id="4090" tvg-name="UK: DAZN PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4090" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4090" tvg-name="UK: DAZN PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4090" group-title="Live TV",UK: DAZN PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791168.ts
-#EXTINF:-1 tvg-id="4091" tvg-name="UK: DAZN PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4091" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4091" tvg-name="UK: DAZN PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4091" group-title="Live TV",UK: DAZN PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791167.ts
-#EXTINF:-1 tvg-id="4092" tvg-name="UK: DAZN PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4092" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4092" tvg-name="UK: DAZN PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4092" group-title="Live TV",UK: DAZN PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791166.ts
-#EXTINF:-1 tvg-id="4093" tvg-name="UK: DAZN PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4093" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4093" tvg-name="UK: DAZN PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4093" group-title="Live TV",UK: DAZN PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791165.ts
-#EXTINF:-1 tvg-id="4094" tvg-name="UK: DAZN PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4094" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4094" tvg-name="UK: DAZN PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4094" group-title="Live TV",UK: DAZN PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791164.ts
-#EXTINF:-1 tvg-id="4095" tvg-name="UK: DAZN PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4095" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4095" tvg-name="UK: DAZN PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4095" group-title="Live TV",UK: DAZN PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791163.ts
-#EXTINF:-1 tvg-id="4096" tvg-name="UK: DAZN PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4096" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4096" tvg-name="UK: DAZN PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4096" group-title="Live TV",UK: DAZN PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791162.ts
-#EXTINF:-1 tvg-id="4097" tvg-name="UK: DAZN PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4097" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4097" tvg-name="UK: DAZN PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4097" group-title="Live TV",UK: DAZN PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791161.ts
-#EXTINF:-1 tvg-id="4098" tvg-name="UK: DAZN PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4098" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4098" tvg-name="UK: DAZN PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4098" group-title="Live TV",UK: DAZN PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791160.ts
-#EXTINF:-1 tvg-id="4099" tvg-name="UK: DAZN PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4099" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4099" tvg-name="UK: DAZN PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4099" group-title="Live TV",UK: DAZN PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791159.ts
-#EXTINF:-1 tvg-id="4100" tvg-name="UK: DAZN PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4100" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4100" tvg-name="UK: DAZN PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4100" group-title="Live TV",UK: DAZN PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791158.ts
-#EXTINF:-1 tvg-id="4101" tvg-name="UK: DAZN PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4101" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4101" tvg-name="UK: DAZN PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4101" group-title="Live TV",UK: DAZN PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791157.ts
-#EXTINF:-1 tvg-id="4102" tvg-name="UK: DAZN PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4102" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4102" tvg-name="UK: DAZN PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4102" group-title="Live TV",UK: DAZN PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791156.ts
-#EXTINF:-1 tvg-id="4103" tvg-name="UK: DAZN PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4103" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4103" tvg-name="UK: DAZN PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4103" group-title="Live TV",UK: DAZN PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791155.ts
-#EXTINF:-1 tvg-id="4104" tvg-name="UK: DAZN PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4104" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4104" tvg-name="UK: DAZN PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4104" group-title="Live TV",UK: DAZN PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791154.ts
-#EXTINF:-1 tvg-id="4105" tvg-name="UK: DAZN PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4105" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4105" tvg-name="UK: DAZN PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4105" group-title="Live TV",UK: DAZN PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791153.ts
-#EXTINF:-1 tvg-id="4106" tvg-name="UK: DAZN PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4106" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4106" tvg-name="UK: DAZN PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4106" group-title="Live TV",UK: DAZN PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791152.ts
-#EXTINF:-1 tvg-id="4107" tvg-name="UK: DAZN PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4107" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="4107" tvg-name="UK: DAZN PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4107" group-title="Live TV",UK: DAZN PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791151.ts
 #EXTINF:-1 tvg-id="5201" tvg-name="NHL | 01 - 7pm Canucks @ Sabres" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" tvg-chno="5201" group-title="Live TV",NHL | 01 - 7pm Canucks @ Sabres
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/605196.ts
@@ -465,13 +549,9 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/606167.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/606166.ts
 #EXTINF:-1 tvg-id="5319" tvg-name="NFL  | 16 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" tvg-chno="5319" group-title="Live TV",NFL  | 16 -
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/606165.ts
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US - MLB NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/MLBNetwork.us.png" tvg-chno="5450" group-title="Live TV",US - MLB NETWORK
-http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/431198.ts
-#EXTINF:-1 tvg-id="MLBNetwork-Alt.us" tvg-name="US - MLB Network-Alt" tvg-logo="https://iptv-epg.org/logos/USA/MLBNetwork-Alt.us.png" tvg-chno="5450" group-title="Live TV",US - MLB Network-Alt
-http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/431197.ts
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK - TNT Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports1.uk.png" tvg-chno="5500" group-title="Live TV",UK - TNT Sports 1
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1176227.ts
-#EXTINF:-1 tvg-id="400480" tvg-name="UK - TNT Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" tvg-chno="5501" group-title="Live TV",UK - TNT Sports 2
+#EXTINF:-1 tvg-id="400480" tvg-name="TNT Sports 2 HD" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" tvg-chno="5501" group-title="Live TV",TNT Sports 2 HD
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1176226.ts
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK - TNT Sports 3" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports3.uk.png" tvg-chno="5502" group-title="Live TV",UK - TNT Sports 3
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1176225.ts
@@ -491,7 +571,7 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/325028.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1527608.ts
 #EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="NOW: PREMIER SPORTS 2 ᴴᴰ" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports2.uk.png" tvg-chno="5609" group-title="Live TV",NOW: PREMIER SPORTS 2 ᴴᴰ
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1527606.ts
-#EXTINF:-1 tvg-id="EPL01.v" tvg-name="EPL 01:" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" tvg-chno="6000" group-title="Live TV",EPL 01:
+#EXTINF:-1 tvg-id="EPL01.v" tvg-name="V - EPL01" tvg-logo="https://iptv-epg.org/logos/USA/EPL01.v.png" tvg-chno="6000" group-title="Live TV",V - EPL01
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1454429.ts
 #EXTINF:-1 tvg-id="6001" tvg-name="EPL 01:" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" tvg-chno="6001" group-title="Live TV",EPL 01:
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1454428.ts
@@ -563,12 +643,316 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1454396.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1454397.ts
 #EXTINF:-1 tvg-id="6035" tvg-name="EPL 12:" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" tvg-chno="6035" group-title="Live TV",EPL 12:
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1454395.ts
-#EXTINF:-1 tvg-id="EPL01.v" tvg-name="UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="https://iptv-epg.org/logos/USA/EPL01.v.png" tvg-chno="6036" group-title="Live TV",UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-id="EPL01.v" tvg-name="V - EPL01" tvg-logo="https://iptv-epg.org/logos/USA/EPL01.v.png" tvg-chno="6036" group-title="Live TV",V - EPL01
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/661427.ts
-#EXTINF:-1 tvg-id="EPL02.v" tvg-name="UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="https://iptv-epg.org/logos/USA/EPL02.v.png" tvg-chno="6037" group-title="Live TV",UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-id="EPL02.v" tvg-name="V - EPL02" tvg-logo="https://iptv-epg.org/logos/USA/EPL02.v.png" tvg-chno="6037" group-title="Live TV",V - EPL02
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/661426.ts
-#EXTINF:-1 tvg-id="LaLigaTV.uk" tvg-name="4K: M+ LALIGA TV ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="https://iptv-epg.org/logos/UK/LaLigaTV.uk.png" tvg-chno="7005" group-title="Live TV",4K: M+ LALIGA TV ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-id="LaLigaTV.uk" tvg-name="UK - LaLiga TV" tvg-logo="https://iptv-epg.org/logos/UK/LaLigaTV.uk.png" tvg-chno="6038" group-title="Live TV",UK - LaLiga TV
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1556130.ts
+#EXTINF:-1 tvg-id="7000" tvg-name="##### TSN+ PPV #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-chno="7000" group-title="Live TV",##### TSN+ PPV #####
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611058.ts
+#EXTINF:-1 tvg-id="7001" tvg-name="HSBC Rugby SVNS 3 Dubai Day One Pool Play @ Jan 17 12:55 AM :TSN+  01" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7001" group-title="Live TV",HSBC Rugby SVNS 3 Dubai Day One Pool Play @ Jan 17 12:55 AM :TSN+  01
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611057.ts
+#EXTINF:-1 tvg-id="7002" tvg-name="SPORTSCENTRE A @ Jan 17 2:00 AM :TSN+  02" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7002" group-title="Live TV",SPORTSCENTRE A @ Jan 17 2:00 AM :TSN+  02
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611056.ts
+#EXTINF:-1 tvg-id="7003" tvg-name="NLL on TSN Black Bears vs Bandits A @ Jan 17 2:00 AM :TSN+  03" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7003" group-title="Live TV",NLL on TSN Black Bears vs Bandits A @ Jan 17 2:00 AM :TSN+  03
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611055.ts
+#EXTINF:-1 tvg-id="7004" tvg-name="TSN+ 04 :" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7004" group-title="Live TV",TSN+ 04 :
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611054.ts
+#EXTINF:-1 tvg-id="7005" tvg-name="SPORTSCENTRE B @ Jan 17 3:00 AM :TSN+  05" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7005" group-title="Live TV",SPORTSCENTRE B @ Jan 17 3:00 AM :TSN+  05
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611053.ts
+#EXTINF:-1 tvg-id="7006" tvg-name="SPORTSCENTRE B @ Jan 17 3:00 AM :TSN+  05" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7006" group-title="Live TV",SPORTSCENTRE B @ Jan 17 3:00 AM :TSN+  05
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611052.ts
+#EXTINF:-1 tvg-id="7007" tvg-name="SPORTSCENTRE C @ Jan 17 4:00 AM :TSN+  06" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7007" group-title="Live TV",SPORTSCENTRE C @ Jan 17 4:00 AM :TSN+  06
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611051.ts
+#EXTINF:-1 tvg-id="7008" tvg-name="NLL on TSN Roughnecks vs Swarm A @ Jan 17 4:30 AM :TSN+  07" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7008" group-title="Live TV",NLL on TSN Roughnecks vs Swarm A @ Jan 17 4:30 AM :TSN+  07
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611050.ts
+#EXTINF:-1 tvg-id="7009" tvg-name="SPORTSCENTRE D @ Jan 17 5:00 AM :TSN+  08" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7009" group-title="Live TV",SPORTSCENTRE D @ Jan 17 5:00 AM :TSN+  08
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611049.ts
+#EXTINF:-1 tvg-id="7010" tvg-name="SPORTSCENTRE E @ Jan 17 6:00 AM :TSN+  09" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7010" group-title="Live TV",SPORTSCENTRE E @ Jan 17 6:00 AM :TSN+  09
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611048.ts
+#EXTINF:-1 tvg-id="7011" tvg-name="SPORTSCENTRE F @ Jan 17 7:00 AM :TSN+  10" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7011" group-title="Live TV",SPORTSCENTRE F @ Jan 17 7:00 AM :TSN+  10
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611047.ts
+#EXTINF:-1 tvg-id="7012" tvg-name="NLL on TSN Black Bears vs Bandits B @ Jan 17 7:00 AM :TSN+  11" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7012" group-title="Live TV",NLL on TSN Black Bears vs Bandits B @ Jan 17 7:00 AM :TSN+  11
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611046.ts
+#EXTINF:-1 tvg-id="7013" tvg-name="LaLiga Real Madrid vs Levante @ Jan 17 7:30 AM :TSN+  12" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7013" group-title="Live TV",LaLiga Real Madrid vs Levante @ Jan 17 7:30 AM :TSN+  12
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611045.ts
+#EXTINF:-1 tvg-id="7014" tvg-name="SPORTSCENTRE G @ Jan 17 8:00 AM :TSN+  13" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7014" group-title="Live TV",SPORTSCENTRE G @ Jan 17 8:00 AM :TSN+  13
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611044.ts
+#EXTINF:-1 tvg-id="7015" tvg-name="SPORTSCENTRE H @ Jan 17 9:00 AM :TSN+  14" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7015" group-title="Live TV",SPORTSCENTRE H @ Jan 17 9:00 AM :TSN+  14
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611043.ts
+#EXTINF:-1 tvg-id="7016" tvg-name="NLL on TSN Roughnecks vs Swarm B @ Jan 17 9:30 AM :TSN+  15" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7016" group-title="Live TV",NLL on TSN Roughnecks vs Swarm B @ Jan 17 9:30 AM :TSN+  15
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611042.ts
+#EXTINF:-1 tvg-id="7017" tvg-name="SPORTSCENTRE I @ Jan 17 10:00 AM :TSN+  16" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7017" group-title="Live TV",SPORTSCENTRE I @ Jan 17 10:00 AM :TSN+  16
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611041.ts
+#EXTINF:-1 tvg-id="7018" tvg-name="NFL Countdown A @ Jan 17 10:00 AM :TSN+  17" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7018" group-title="Live TV",NFL Countdown A @ Jan 17 10:00 AM :TSN+  17
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611040.ts
+#EXTINF:-1 tvg-id="7019" tvg-name="LaLiga Mallorca vs Athletic Bilbao @ Jan 17 10:03 AM :TSN+  18" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7019" group-title="Live TV",LaLiga Mallorca vs Athletic Bilbao @ Jan 17 10:03 AM :TSN+  18
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611039.ts
+#EXTINF:-1 tvg-id="7020" tvg-name="SPORTSCENTRE J @ Jan 17 11:00 AM :TSN+  19" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7020" group-title="Live TV",SPORTSCENTRE J @ Jan 17 11:00 AM :TSN+  19
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611038.ts
+#EXTINF:-1 tvg-id="7021" tvg-name="2026 Latin America Amateur Golf Championship Third Round @ Jan 17 11:00 AM :TSN+  20" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7021" group-title="Live TV",2026 Latin America Amateur Golf Championship Third Round @ Jan 17 11:00 AM :TSN+  20
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611037.ts
+#EXTINF:-1 tvg-id="7022" tvg-name="Swedish Hockey League Farjestad BK vs Brynas IF @ Jan 17 11:55 AM :TSN+  21" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7022" group-title="Live TV",Swedish Hockey League Farjestad BK vs Brynas IF @ Jan 17 11:55 AM :TSN+  21
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611036.ts
+#EXTINF:-1 tvg-id="7023" tvg-name="Breaking Down Barriers Girls Just Wanna Box A @ Jan 17 12:00 PM :TSN+  22" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7023" group-title="Live TV",Breaking Down Barriers Girls Just Wanna Box A @ Jan 17 12:00 PM :TSN+  22
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611035.ts
+#EXTINF:-1 tvg-id="7024" tvg-name="NCAA Mens Basketball Kentucky vs Tennessee @ Jan 17 12:00 PM :TSN+  23" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7024" group-title="Live TV",NCAA Mens Basketball Kentucky vs Tennessee @ Jan 17 12:00 PM :TSN+  23
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611034.ts
+#EXTINF:-1 tvg-id="7025" tvg-name="Why We Love Sports A @ Jan 17 12:00 PM :TSN+  24" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7025" group-title="Live TV",Why We Love Sports A @ Jan 17 12:00 PM :TSN+  24
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611033.ts
+#EXTINF:-1 tvg-id="7026" tvg-name="PGA TOUR Live Sony Open in Hawaii Third Round @ Jan 17 12:15 PM :TSN+  25" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7026" group-title="Live TV",PGA TOUR Live Sony Open in Hawaii Third Round @ Jan 17 12:15 PM :TSN+  25
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611032.ts
+#EXTINF:-1 tvg-id="7027" tvg-name="LaLiga Osasuna vs Real Oviedo @ Jan 17 12:18 PM :TSN+  26" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7027" group-title="Live TV",LaLiga Osasuna vs Real Oviedo @ Jan 17 12:18 PM :TSN+  26
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611031.ts
+#EXTINF:-1 tvg-id="7028" tvg-name="2026 IIHF U18 Womens World Championship Quarterfinal Canada vs Finland @ Jan 17 12:30 PM :TSN+  27" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7028" group-title="Live TV",2026 IIHF U18 Womens World Championship Quarterfinal Canada vs Finland @ Jan 17 12:30 PM :TSN+  27
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611030.ts
+#EXTINF:-1 tvg-id="7029" tvg-name="2025 26 Formula E Highlights Mexico City Round 2 A @ Jan 17 1:00 PM :TSN+  28" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7029" group-title="Live TV",2025 26 Formula E Highlights Mexico City Round 2 A @ Jan 17 1:00 PM :TSN+  28
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611029.ts
+#EXTINF:-1 tvg-id="7030" tvg-name="NCAA Mens Basketball Florida vs Vanderbilt @ Jan 17 2:00 PM :TSN+  29" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7030" group-title="Live TV",NCAA Mens Basketball Florida vs Vanderbilt @ Jan 17 2:00 PM :TSN+  29
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611028.ts
+#EXTINF:-1 tvg-id="7031" tvg-name="SC Top 50 Goals of All Time A @ Jan 17 2:00 PM :TSN+  30" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7031" group-title="Live TV",SC Top 50 Goals of All Time A @ Jan 17 2:00 PM :TSN+  30
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611027.ts
+#EXTINF:-1 tvg-id="7032" tvg-name="SC December Plays of the Month A @ Jan 17 2:00 PM :TSN+  31" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7032" group-title="Live TV",SC December Plays of the Month A @ Jan 17 2:00 PM :TSN+  31
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611026.ts
+#EXTINF:-1 tvg-id="7033" tvg-name="SC Top 50 Saves of All Time @ Jan 17 2:30 PM :TSN+  32" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7033" group-title="Live TV",SC Top 50 Saves of All Time @ Jan 17 2:30 PM :TSN+  32
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611025.ts
+#EXTINF:-1 tvg-id="7034" tvg-name="NFL GameDay Wild Card @ Jan 17 2:30 PM :TSN+  33" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7034" group-title="Live TV",NFL GameDay Wild Card @ Jan 17 2:30 PM :TSN+  33
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611024.ts
+#EXTINF:-1 tvg-id="7035" tvg-name="LaLiga Real Betis vs Villarreal @ Jan 17 2:48 PM :TSN+  34" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7035" group-title="Live TV",LaLiga Real Betis vs Villarreal @ Jan 17 2:48 PM :TSN+  34
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611023.ts
+#EXTINF:-1 tvg-id="7036" tvg-name="LaLiga 2 Almeria vs Deportivo @ Jan 17 2:48 PM :TSN+  35" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7036" group-title="Live TV",LaLiga 2 Almeria vs Deportivo @ Jan 17 2:48 PM :TSN+  35
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611022.ts
+#EXTINF:-1 tvg-id="7037" tvg-name="NCAA Womens Hockey Union vs Clarkson @ Jan 17 3:00 PM :TSN+  36" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7037" group-title="Live TV",NCAA Womens Hockey Union vs Clarkson @ Jan 17 3:00 PM :TSN+  36
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611021.ts
+#EXTINF:-1 tvg-id="7038" tvg-name="2026 IIHF U18 Womens World Championship Semifinal USA vs Sweden @ Jan 17 3:00 PM :TSN+  37" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7038" group-title="Live TV",2026 IIHF U18 Womens World Championship Semifinal USA vs Sweden @ Jan 17 3:00 PM :TSN+  37
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611020.ts
+#EXTINF:-1 tvg-id="7039" tvg-name="SC CFL Plays of the Year @ Jan 17 3:00 PM :TSN+  38" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7039" group-title="Live TV",SC CFL Plays of the Year @ Jan 17 3:00 PM :TSN+  38
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611019.ts
+#EXTINF:-1 tvg-id="7040" tvg-name="Why We Love Football Best of 2025 A @ Jan 17 3:00 PM :TSN+  39" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7040" group-title="Live TV",Why We Love Football Best of 2025 A @ Jan 17 3:00 PM :TSN+  39
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611018.ts
+#EXTINF:-1 tvg-id="7041" tvg-name="SC Top Plays of the Year A @ Jan 17 3:30 PM :TSN+  40" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7041" group-title="Live TV",SC Top Plays of the Year A @ Jan 17 3:30 PM :TSN+  40
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611017.ts
+#EXTINF:-1 tvg-id="7042" tvg-name="NFL Playoffs Divisional Pre Game A @ Jan 17 3:30 PM :TSN+  41" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7042" group-title="Live TV",NFL Playoffs Divisional Pre Game A @ Jan 17 3:30 PM :TSN+  41
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611016.ts
+#EXTINF:-1 tvg-id="7043" tvg-name="NCAA Mens Hockey Vermont vs UConn @ Jan 17 4:00 PM :TSN+  42" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7043" group-title="Live TV",NCAA Mens Hockey Vermont vs UConn @ Jan 17 4:00 PM :TSN+  42
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611015.ts
+#EXTINF:-1 tvg-id="7044" tvg-name="NFL Playoffs Divisional Pre Game B @ Jan 17 4:00 PM :TSN+  43" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7044" group-title="Live TV",NFL Playoffs Divisional Pre Game B @ Jan 17 4:00 PM :TSN+  43
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611014.ts
+#EXTINF:-1 tvg-id="7045" tvg-name="SC Top Rivalries in Sports A @ Jan 17 4:00 PM :TSN+  44" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7045" group-title="Live TV",SC Top Rivalries in Sports A @ Jan 17 4:00 PM :TSN+  44
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611013.ts
+#EXTINF:-1 tvg-id="7046" tvg-name="2025 Australian Open Tennis Womens Final Keys vs Sabalenka @ Jan 17 4:00 PM :TSN+  45" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7046" group-title="Live TV",2025 Australian Open Tennis Womens Final Keys vs Sabalenka @ Jan 17 4:00 PM :TSN+  45
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611012.ts
+#EXTINF:-1 tvg-id="7047" tvg-name="NFL Playoffs Divisional Round Bills vs Broncos @ Jan 17 4:30 PM :TSN+  46" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7047" group-title="Live TV",NFL Playoffs Divisional Round Bills vs Broncos @ Jan 17 4:30 PM :TSN+  46
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611011.ts
+#EXTINF:-1 tvg-id="7048" tvg-name="SC Top Overtime Moments A @ Jan 17 4:30 PM :TSN+  47" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7048" group-title="Live TV",SC Top Overtime Moments A @ Jan 17 4:30 PM :TSN+  47
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611010.ts
+#EXTINF:-1 tvg-id="7049" tvg-name="SC Top WNBA Moments @ Jan 17 5:00 PM :TSN+  48" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7049" group-title="Live TV",SC Top WNBA Moments @ Jan 17 5:00 PM :TSN+  48
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611009.ts
+#EXTINF:-1 tvg-id="7050" tvg-name="SC December Plays of the Month B @ Jan 17 5:30 PM :TSN+  49" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7050" group-title="Live TV",SC December Plays of the Month B @ Jan 17 5:30 PM :TSN+  49
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611008.ts
+#EXTINF:-1 tvg-id="7051" tvg-name="2026 SailGP Racing Perth Day #1 @ Jan 17 5:30 PM :TSN+  50" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7051" group-title="Live TV",2026 SailGP Racing Perth Day #1 @ Jan 17 5:30 PM :TSN+  50
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611007.ts
+#EXTINF:-1 tvg-id="7052" tvg-name="Behind The Leaf Plans Continue A @ Jan 17 6:00 PM :TSN+  51" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7052" group-title="Live TV",Behind The Leaf Plans Continue A @ Jan 17 6:00 PM :TSN+  51
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611006.ts
+#EXTINF:-1 tvg-id="7053" tvg-name="Australian Open 24 Hour Coverage Day #1 @ Jan 17 6:30 PM :TSN+  52" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7053" group-title="Live TV",Australian Open 24 Hour Coverage Day #1 @ Jan 17 6:30 PM :TSN+  52
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611005.ts
+#EXTINF:-1 tvg-id="7054" tvg-name="2026 IIHF U18 Womens World Championship Semifinal Canada vs Czechia @ Jan 17 6:30 PM :TSN+  53" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7054" group-title="Live TV",2026 IIHF U18 Womens World Championship Semifinal Canada vs Czechia @ Jan 17 6:30 PM :TSN+  53
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611004.ts
+#EXTINF:-1 tvg-id="7055" tvg-name="Australian Open Day #1 Court TBD A @ Jan 17 7:00 PM :TSN+  54" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7055" group-title="Live TV",Australian Open Day #1 Court TBD A @ Jan 17 7:00 PM :TSN+  54
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611003.ts
+#EXTINF:-1 tvg-id="7056" tvg-name="PGA TOUR Sony Open in Hawaii Third Round @ Jan 17 7:00 PM :TSN+  55" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7056" group-title="Live TV",PGA TOUR Sony Open in Hawaii Third Round @ Jan 17 7:00 PM :TSN+  55
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611002.ts
+#EXTINF:-1 tvg-id="7057" tvg-name="2026 Australian Open Tennis Early Round Coverage Day #1 A @ Jan 17 7:00 PM :TSN+  56" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7057" group-title="Live TV",2026 Australian Open Tennis Early Round Coverage Day #1 A @ Jan 17 7:00 PM :TSN+  56
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611001.ts
+#EXTINF:-1 tvg-id="7058" tvg-name="Australian Open Day #1 Court TBD B @ Jan 17 7:30 PM :TSN+  57" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7058" group-title="Live TV",Australian Open Day #1 Court TBD B @ Jan 17 7:30 PM :TSN+  57
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1611000.ts
+#EXTINF:-1 tvg-id="7059" tvg-name="NLL on TSN+ FireWolves vs Rush @ Jan 17 8:00 PM :TSN+  58" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7059" group-title="Live TV",NLL on TSN+ FireWolves vs Rush @ Jan 17 8:00 PM :TSN+  58
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610999.ts
+#EXTINF:-1 tvg-id="7060" tvg-name="NFL Playoffs Divisional Round 49ers vs Seahawks @ Jan 17 8:00 PM :TSN+  60" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7060" group-title="Live TV",NFL Playoffs Divisional Round 49ers vs Seahawks @ Jan 17 8:00 PM :TSN+  60
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610998.ts
+#EXTINF:-1 tvg-id="7061" tvg-name="NLL on TSN+ Rock vs Knighthawks @ Jan 17 8:00 PM :TSN+  59" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7061" group-title="Live TV",NLL on TSN+ Rock vs Knighthawks @ Jan 17 8:00 PM :TSN+  59
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610997.ts
+#EXTINF:-1 tvg-id="7062" tvg-name="NBA on TSN+ Thunder vs Heat @ Jan 17 8:00 PM :TSN+  61" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7062" group-title="Live TV",NBA on TSN+ Thunder vs Heat @ Jan 17 8:00 PM :TSN+  61
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610996.ts
+#EXTINF:-1 tvg-id="7063" tvg-name="NBA on TSN+ Timberwolves vs Spurs @ Jan 17 8:00 PM :TSN+  62" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7063" group-title="Live TV",NBA on TSN+ Timberwolves vs Spurs @ Jan 17 8:00 PM :TSN+  62
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610995.ts
+#EXTINF:-1 tvg-id="7064" tvg-name="SC Top Games of the Year A @ Jan 17 9:00 PM :TSN+  63" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7064" group-title="Live TV",SC Top Games of the Year A @ Jan 17 9:00 PM :TSN+  63
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610994.ts
+#EXTINF:-1 tvg-id="7065" tvg-name="SC Top Plays of the Year B @ Jan 17 9:30 PM :TSN+  64" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7065" group-title="Live TV",SC Top Plays of the Year B @ Jan 17 9:30 PM :TSN+  64
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610993.ts
+#EXTINF:-1 tvg-id="7066" tvg-name="SC December Plays of the Month C @ Jan 17 10:00 PM :TSN+  65" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7066" group-title="Live TV",SC December Plays of the Month C @ Jan 17 10:00 PM :TSN+  65
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610992.ts
+#EXTINF:-1 tvg-id="7067" tvg-name="2026 Australian Open Tennis Early Round Coverage Day #1 B @ Jan 17 10:00 PM :TSN+  66" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7067" group-title="Live TV",2026 Australian Open Tennis Early Round Coverage Day #1 B @ Jan 17 10:00 PM :TSN+  66
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610991.ts
+#EXTINF:-1 tvg-id="7068" tvg-name="NLL on TSN+ Wings vs Desert Dogs @ Jan 17 10:00 PM :TSN+  67" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7068" group-title="Live TV",NLL on TSN+ Wings vs Desert Dogs @ Jan 17 10:00 PM :TSN+  67
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610990.ts
+#EXTINF:-1 tvg-id="7069" tvg-name="SC Top Overtime Moments B @ Jan 17 10:30 PM :TSN+  68" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7069" group-title="Live TV",SC Top Overtime Moments B @ Jan 17 10:30 PM :TSN+  68
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610989.ts
+#EXTINF:-1 tvg-id="7070" tvg-name="SC Top 40 Trick Plays of All Time @ Jan 17 11:00 PM :TSN+  69" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7070" group-title="Live TV",SC Top 40 Trick Plays of All Time @ Jan 17 11:00 PM :TSN+  69
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610988.ts
+#EXTINF:-1 tvg-id="7071" tvg-name="SC with Jay Onrait @ Jan 17 11:00 PM :TSN+  70" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7071" group-title="Live TV",SC with Jay Onrait @ Jan 17 11:00 PM :TSN+  70
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610987.ts
+#EXTINF:-1 tvg-id="7072" tvg-name="SC Wacky CFL Moments @ Jan 17 11:30 PM :TSN+  71" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7072" group-title="Live TV",SC Wacky CFL Moments @ Jan 17 11:30 PM :TSN+  71
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610986.ts
+#EXTINF:-1 tvg-id="7073" tvg-name=":TSN+  72" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7073" group-title="Live TV",:TSN+  72
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610985.ts
+#EXTINF:-1 tvg-id="7074" tvg-name=":TSN+  73" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7074" group-title="Live TV",:TSN+  73
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610984.ts
+#EXTINF:-1 tvg-id="7075" tvg-name=":TSN+  74" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7075" group-title="Live TV",:TSN+  74
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610983.ts
+#EXTINF:-1 tvg-id="7076" tvg-name=":TSN+  75" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7076" group-title="Live TV",:TSN+  75
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610982.ts
+#EXTINF:-1 tvg-id="7077" tvg-name=":TSN+  76" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7077" group-title="Live TV",:TSN+  76
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610981.ts
+#EXTINF:-1 tvg-id="7078" tvg-name=":TSN+  77" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7078" group-title="Live TV",:TSN+  77
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610980.ts
+#EXTINF:-1 tvg-id="7079" tvg-name=":TSN+  78" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7079" group-title="Live TV",:TSN+  78
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610979.ts
+#EXTINF:-1 tvg-id="7080" tvg-name=":TSN+  79" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7080" group-title="Live TV",:TSN+  79
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610978.ts
+#EXTINF:-1 tvg-id="7081" tvg-name=":TSN+  80" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7081" group-title="Live TV",:TSN+  80
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610977.ts
+#EXTINF:-1 tvg-id="7082" tvg-name=":TSN+  81" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7082" group-title="Live TV",:TSN+  81
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610976.ts
+#EXTINF:-1 tvg-id="7083" tvg-name=":TSN+  82" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7083" group-title="Live TV",:TSN+  82
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610975.ts
+#EXTINF:-1 tvg-id="7084" tvg-name=":TSN+  83" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7084" group-title="Live TV",:TSN+  83
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610974.ts
+#EXTINF:-1 tvg-id="7085" tvg-name=":TSN+  84" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7085" group-title="Live TV",:TSN+  84
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610973.ts
+#EXTINF:-1 tvg-id="7086" tvg-name=":TSN+  85" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7086" group-title="Live TV",:TSN+  85
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610972.ts
+#EXTINF:-1 tvg-id="7087" tvg-name=":TSN+  86" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7087" group-title="Live TV",:TSN+  86
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610971.ts
+#EXTINF:-1 tvg-id="7088" tvg-name=":TSN+  87" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7088" group-title="Live TV",:TSN+  87
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610970.ts
+#EXTINF:-1 tvg-id="7089" tvg-name=":TSN+  88" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7089" group-title="Live TV",:TSN+  88
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610969.ts
+#EXTINF:-1 tvg-id="7090" tvg-name=":TSN+  89" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7090" group-title="Live TV",:TSN+  89
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610968.ts
+#EXTINF:-1 tvg-id="7091" tvg-name=":TSN+  90" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7091" group-title="Live TV",:TSN+  90
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610967.ts
+#EXTINF:-1 tvg-id="7092" tvg-name=":TSN+  91" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7092" group-title="Live TV",:TSN+  91
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610966.ts
+#EXTINF:-1 tvg-id="7093" tvg-name=":TSN+  92" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7093" group-title="Live TV",:TSN+  92
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610965.ts
+#EXTINF:-1 tvg-id="7094" tvg-name=":TSN+  93" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7094" group-title="Live TV",:TSN+  93
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610964.ts
+#EXTINF:-1 tvg-id="7095" tvg-name=":TSN+  94" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7095" group-title="Live TV",:TSN+  94
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610963.ts
+#EXTINF:-1 tvg-id="7096" tvg-name=":TSN+  95" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7096" group-title="Live TV",:TSN+  95
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610962.ts
+#EXTINF:-1 tvg-id="7097" tvg-name=":TSN+  96" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7097" group-title="Live TV",:TSN+  96
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610961.ts
+#EXTINF:-1 tvg-id="7098" tvg-name=":TSN+  97" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7098" group-title="Live TV",:TSN+  97
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610960.ts
+#EXTINF:-1 tvg-id="7099" tvg-name=":TSN+  98" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7099" group-title="Live TV",:TSN+  98
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610959.ts
+#EXTINF:-1 tvg-id="7100" tvg-name=":TSN+  99" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7100" group-title="Live TV",:TSN+  99
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610958.ts
+#EXTINF:-1 tvg-id="7101" tvg-name=":TSN+  100" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7101" group-title="Live TV",:TSN+  100
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1610957.ts
+#EXTINF:-1 tvg-id="7102" tvg-name=":TSN+  101" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7102" group-title="Live TV",:TSN+  101
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675759.ts
+#EXTINF:-1 tvg-id="7103" tvg-name=":TSN+  102" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7103" group-title="Live TV",:TSN+  102
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675758.ts
+#EXTINF:-1 tvg-id="7104" tvg-name=":TSN+  103" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7104" group-title="Live TV",:TSN+  103
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675757.ts
+#EXTINF:-1 tvg-id="7105" tvg-name=":TSN+  104" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7105" group-title="Live TV",:TSN+  104
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675756.ts
+#EXTINF:-1 tvg-id="7106" tvg-name=":TSN+  105" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7106" group-title="Live TV",:TSN+  105
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675755.ts
+#EXTINF:-1 tvg-id="7107" tvg-name=":TSN+  106" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7107" group-title="Live TV",:TSN+  106
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675754.ts
+#EXTINF:-1 tvg-id="7108" tvg-name=":TSN+  107" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7108" group-title="Live TV",:TSN+  107
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675753.ts
+#EXTINF:-1 tvg-id="7109" tvg-name=":TSN+  108" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7109" group-title="Live TV",:TSN+  108
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675752.ts
+#EXTINF:-1 tvg-id="7110" tvg-name=":TSN+  109" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7110" group-title="Live TV",:TSN+  109
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675751.ts
+#EXTINF:-1 tvg-id="7111" tvg-name=":TSN+  110" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7111" group-title="Live TV",:TSN+  110
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675750.ts
+#EXTINF:-1 tvg-id="7112" tvg-name=":TSN+  111" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7112" group-title="Live TV",:TSN+  111
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675749.ts
+#EXTINF:-1 tvg-id="7113" tvg-name=":TSN+  112" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7113" group-title="Live TV",:TSN+  112
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675748.ts
+#EXTINF:-1 tvg-id="7114" tvg-name=":TSN+  113" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7114" group-title="Live TV",:TSN+  113
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675747.ts
+#EXTINF:-1 tvg-id="7115" tvg-name=":TSN+  114" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7115" group-title="Live TV",:TSN+  114
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675746.ts
+#EXTINF:-1 tvg-id="7116" tvg-name=":TSN+  115" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7116" group-title="Live TV",:TSN+  115
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675745.ts
+#EXTINF:-1 tvg-id="7117" tvg-name=":TSN+  116" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7117" group-title="Live TV",:TSN+  116
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675744.ts
+#EXTINF:-1 tvg-id="7118" tvg-name=":TSN+  117" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7118" group-title="Live TV",:TSN+  117
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675743.ts
+#EXTINF:-1 tvg-id="7119" tvg-name=":TSN+  118" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7119" group-title="Live TV",:TSN+  118
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675742.ts
+#EXTINF:-1 tvg-id="7120" tvg-name=":TSN+  119" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7120" group-title="Live TV",:TSN+  119
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675741.ts
+#EXTINF:-1 tvg-id="7121" tvg-name=":TSN+  120" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7121" group-title="Live TV",:TSN+  120
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675740.ts
+#EXTINF:-1 tvg-id="7122" tvg-name=":TSN+  121" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7122" group-title="Live TV",:TSN+  121
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675739.ts
+#EXTINF:-1 tvg-id="7123" tvg-name=":TSN+  122" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7123" group-title="Live TV",:TSN+  122
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675738.ts
+#EXTINF:-1 tvg-id="7124" tvg-name=":TSN+  123" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7124" group-title="Live TV",:TSN+  123
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675737.ts
+#EXTINF:-1 tvg-id="7125" tvg-name=":TSN+  124" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7125" group-title="Live TV",:TSN+  124
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675736.ts
+#EXTINF:-1 tvg-id="7126" tvg-name=":TSN+  125" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7126" group-title="Live TV",:TSN+  125
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675735.ts
+#EXTINF:-1 tvg-id="7127" tvg-name=":TSN+  126" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7127" group-title="Live TV",:TSN+  126
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675734.ts
+#EXTINF:-1 tvg-id="7128" tvg-name=":TSN+  127" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7128" group-title="Live TV",:TSN+  127
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675733.ts
+#EXTINF:-1 tvg-id="7129" tvg-name=":TSN+  128" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7129" group-title="Live TV",:TSN+  128
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675732.ts
+#EXTINF:-1 tvg-id="7130" tvg-name=":TSN+  129" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7130" group-title="Live TV",:TSN+  129
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675731.ts
+#EXTINF:-1 tvg-id="7131" tvg-name="TSN+ 130 :" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7131" group-title="Live TV",TSN+ 130 :
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675730.ts
+#EXTINF:-1 tvg-id="7132" tvg-name=":TSN+  131" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7132" group-title="Live TV",:TSN+  131
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675729.ts
+#EXTINF:-1 tvg-id="7133" tvg-name=":TSN+  132" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7133" group-title="Live TV",:TSN+  132
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675728.ts
+#EXTINF:-1 tvg-id="7134" tvg-name=":TSN+  133" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7134" group-title="Live TV",:TSN+  133
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675727.ts
+#EXTINF:-1 tvg-id="7135" tvg-name=":TSN+  134" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7135" group-title="Live TV",:TSN+  134
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675726.ts
+#EXTINF:-1 tvg-id="7136" tvg-name=":TSN+  135" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7136" group-title="Live TV",:TSN+  135
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675725.ts
+#EXTINF:-1 tvg-id="7137" tvg-name=":TSN+  136" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7137" group-title="Live TV",:TSN+  136
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675724.ts
+#EXTINF:-1 tvg-id="7138" tvg-name=":TSN+  137" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7138" group-title="Live TV",:TSN+  137
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675723.ts
+#EXTINF:-1 tvg-id="7139" tvg-name=":TSN+  138" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7139" group-title="Live TV",:TSN+  138
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675722.ts
+#EXTINF:-1 tvg-id="7140" tvg-name=":TSN+  139" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7140" group-title="Live TV",:TSN+  139
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675721.ts
+#EXTINF:-1 tvg-id="7141" tvg-name=":TSN+  140" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7141" group-title="Live TV",:TSN+  140
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675720.ts
+#EXTINF:-1 tvg-id="7142" tvg-name=":TSN+  141" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7142" group-title="Live TV",:TSN+  141
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675719.ts
+#EXTINF:-1 tvg-id="7143" tvg-name=":TSN+  142" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7143" group-title="Live TV",:TSN+  142
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675718.ts
+#EXTINF:-1 tvg-id="7144" tvg-name=":TSN+  143" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7144" group-title="Live TV",:TSN+  143
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675717.ts
+#EXTINF:-1 tvg-id="7145" tvg-name=":TSN+  144" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7145" group-title="Live TV",:TSN+  144
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675716.ts
+#EXTINF:-1 tvg-id="7146" tvg-name=":TSN+  145" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7146" group-title="Live TV",:TSN+  145
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675715.ts
+#EXTINF:-1 tvg-id="7147" tvg-name=":TSN+  146" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7147" group-title="Live TV",:TSN+  146
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675714.ts
+#EXTINF:-1 tvg-id="7148" tvg-name=":TSN+  147" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7148" group-title="Live TV",:TSN+  147
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675713.ts
+#EXTINF:-1 tvg-id="7149" tvg-name=":TSN+  148" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7149" group-title="Live TV",:TSN+  148
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675712.ts
+#EXTINF:-1 tvg-id="7150" tvg-name=":TSN+  149" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7150" group-title="Live TV",:TSN+  149
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675711.ts
+#EXTINF:-1 tvg-id="7151" tvg-name=":TSN+  150" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14409.png?ver=39128" tvg-chno="7151" group-title="Live TV",:TSN+  150
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1675710.ts
 #EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK - Sky Sports +" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPlus.uk.png" tvg-chno="7301" group-title="Live TV",UK - Sky Sports +
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1290305.ts
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK - Sky Sports Action" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsAction.uk.png" tvg-chno="7303" group-title="Live TV",UK - Sky Sports Action
@@ -615,15 +999,15 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1290308.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1290289.ts
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - Sky Sports Main Event" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsMainEvent.uk.png" tvg-chno="7324" group-title="Live TV",UK - Sky Sports Main Event
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1544239.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="4K: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsF1.uk.png" tvg-chno="7325" group-title="Live TV",4K: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - Sky Sports F1" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsF1.uk.png" tvg-chno="7325" group-title="Live TV",UK - Sky Sports F1
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1544243.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="4K: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsMainEvent.uk.png" tvg-chno="7326" group-title="Live TV",4K: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - Sky Sports Main Event" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsMainEvent.uk.png" tvg-chno="7326" group-title="Live TV",UK - Sky Sports Main Event
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1544239.ts
-#EXTINF:-1 tvg-id="SkySportsMainEventUHD.uk" tvg-name="4K: SKY SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT)" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsMainEventUHD.uk.png" tvg-chno="7327" group-title="Live TV",4K: SKY SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT)
+#EXTINF:-1 tvg-id="SkySportsMainEventUHD.uk" tvg-name="UK - Sky Sports Main Event UHD" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsMainEventUHD.uk.png" tvg-chno="7327" group-title="Live TV",UK - Sky Sports Main Event UHD
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1544240.ts
-#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK: SKY SPORTS + ᴴᴰ ◉" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPlus.uk.png" tvg-chno="7330" group-title="Live TV",UK: SKY SPORTS + ᴴᴰ ◉
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK - Sky Sports +" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPlus.uk.png" tvg-chno="7330" group-title="Live TV",UK - Sky Sports +
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/588067.ts
-#EXTINF:-1 tvg-id="SkySports+1.Vig" tvg-name="UK: SKY SPORTS+ EVENT 1" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B1.Vig.png" tvg-chno="7331" group-title="Live TV",UK: SKY SPORTS+ EVENT 1
+#EXTINF:-1 tvg-id="SkySports+1.Vig" tvg-name="VIG - Sky Sports+ 1" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B1.Vig.png" tvg-chno="7331" group-title="Live TV",VIG - Sky Sports+ 1
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/992805.ts
 #EXTINF:-1 tvg-id="7332" tvg-name="UK: SKY SPORTS+ EVENT 10" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7872.jpg?50086" tvg-chno="7332" group-title="Live TV",UK: SKY SPORTS+ EVENT 10
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/992796.ts
@@ -753,13 +1137,13 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1313866.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1313865.ts
 #EXTINF:-1 tvg-id="7395" tvg-name="UK: SKY SPORTS+ EVENT 68" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7872.jpg?50086" tvg-chno="7395" group-title="Live TV",UK: SKY SPORTS+ EVENT 68
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1313864.ts
-#EXTINF:-1 tvg-id="SkySports+69.Vig" tvg-name="UK: SKY SPORTS+ EVENT 69" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B69.Vig.png" tvg-chno="7396" group-title="Live TV",UK: SKY SPORTS+ EVENT 69
+#EXTINF:-1 tvg-id="SkySports+69.Vig" tvg-name="VIG - Sky Sports+ 69" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B69.Vig.png" tvg-chno="7396" group-title="Live TV",VIG - Sky Sports+ 69
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1313863.ts
-#EXTINF:-1 tvg-id="SkySports+7.Vig" tvg-name="UK: SKY SPORTS+ EVENT 7" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B7.Vig.png" tvg-chno="7397" group-title="Live TV",UK: SKY SPORTS+ EVENT 7
+#EXTINF:-1 tvg-id="SkySports+7.Vig" tvg-name="VIG - Sky Sports+ 7" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B7.Vig.png" tvg-chno="7397" group-title="Live TV",VIG - Sky Sports+ 7
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/992799.ts
-#EXTINF:-1 tvg-id="SkySports+70.Vig" tvg-name="UK: SKY SPORTS+ EVENT 70" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B70.Vig.png" tvg-chno="7398" group-title="Live TV",UK: SKY SPORTS+ EVENT 70
+#EXTINF:-1 tvg-id="SkySports+70.Vig" tvg-name="VIG - Sky Sports+ 70" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B70.Vig.png" tvg-chno="7398" group-title="Live TV",VIG - Sky Sports+ 70
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1313862.ts
-#EXTINF:-1 tvg-id="SkySports+8.Vig" tvg-name="UK: SKY SPORTS+ EVENT 8" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B8.Vig.png" tvg-chno="7399" group-title="Live TV",UK: SKY SPORTS+ EVENT 8
+#EXTINF:-1 tvg-id="SkySports+8.Vig" tvg-name="VIG - Sky Sports+ 8" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B8.Vig.png" tvg-chno="7399" group-title="Live TV",VIG - Sky Sports+ 8
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/992798.ts
-#EXTINF:-1 tvg-id="SkySports+9.Vig" tvg-name="UK: SKY SPORTS+ EVENT 9" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B9.Vig.png" tvg-chno="7400" group-title="Live TV",UK: SKY SPORTS+ EVENT 9
+#EXTINF:-1 tvg-id="SkySports+9.Vig" tvg-name="VIG - Sky Sports+ 9" tvg-logo="https://iptv-epg.org/logos/UK/SkySports%2B9.Vig.png" tvg-chno="7400" group-title="Live TV",VIG - Sky Sports+ 9
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/992797.ts
